@@ -1,7 +1,5 @@
 # ¡Hola! Soy Álvaro Navarro Pegalajar 👋
 
----
-
 ### 🚀 Sobre mí
 
 - 🎓 Estoy estudiando **Desarrollo de Aplicaciones Multiplataforma** en ** Linares, Jaén (España)**.
