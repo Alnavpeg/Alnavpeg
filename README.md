@@ -29,16 +29,6 @@ Estas son las tecnologías con las que estoy trabajando:
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 </p>
 
-
-### 📊 Mis Estadísticas en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alnavpeg&show_icons=true&theme=dracula&hide_border=true" alt="Estadísticas de Alnavpeg" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alnavpeg&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes de Alnavpeg" />
-</p>
 ---
 
 ### 📫 Contacto
