@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Álvaro Navarro Pegalajar</h1>
-<h3 align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma</h3>
-
-### 👤 Sobre mí
+<h1 align="center"> !Hola¡ Soy Álvaro Navarro Pegalajar 👋</h1>
+<h3 align="center">Desarrollador de Aplicaciones Multiplataforma</h3>
 
 - 📍 Soy de **Linares (Jaén)**.
 - 🎓 Estudiante en el **IES Oretania**.
