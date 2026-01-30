@@ -1,5 +1,5 @@
 <h1> ¡Hola! Soy Álvaro Navarro Pegalajar 👋 </h1>
-<h2> Desarrollador de Aplicaciones Multiplataforma </h2>
+<h3> Desarrollador de Aplicaciones Multiplataforma </h3>
 
 ### 👤 Sobre mí
 
