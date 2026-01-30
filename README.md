@@ -4,7 +4,7 @@
 
 -📍 Soy de **Linares (Jaén)**.
 -🎓 Estudiante en el **IES Oretania**.
--📚 Dedico parte de mi tiempo libre a investigar nuevas herramientas y mejorar mis habilidades
+-📚 Dedico parte de mi tiempo libre a investigar nuevas herramientas y mejorar mis habilidades.
 -🎬 En mi tiempo libre, estoy viendo cine y series.
 
 ---
