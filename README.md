@@ -1,11 +1,11 @@
 # ¡Hola! Soy Álvaro Navarro Pegalajar 👋
 
-### 🚀 Sobre mí
+## 🚀 Sobre mí
 
-- 🎓 Actualmente estoy estudiando **[Desarrollo de Aplicaciones Multiplataforma]** en **[Linares, Jaén (España)]**.
-- 🌱 Actualmente estoy profundizando en **React** (Hooks, Componentes, State Management).
-- 🔧 Estoy aprendiendo a gestionar versiones profesionalmente con **Git & GitHub**.
-- 💡 Me gusta crear proyectos que resuelvan problemas reales de forma sencilla y eficiente.
+-📍 Soy de **Linares (Jaén)**.
+-🎓 Estudiante en el **IES Oretania**.
+-📚 Dedico parte de mi tiempo libre a investigar nuevas herramientas y mejorar mis habilidades
+-🎬 En mi tiempo libre, estoy viendo cine y series.
 
 ---
 
