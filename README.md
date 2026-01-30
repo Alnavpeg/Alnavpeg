@@ -1,7 +1,5 @@
 # ¡Hola! Soy Álvaro Navarro Pegalajar 👋
 
-### 👨‍💻 Estudiante de Desarrollo Multiplataforma en IES Oretania Linares (Jaén)
-
 ---
 
 ### 🚀 Sobre mí
