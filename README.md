@@ -1,5 +1,5 @@
-<h1> ¡Hola! Soy Álvaro Navarro Pegalajar 👋 </h1>
-<h3> Desarrollador de Aplicaciones Multiplataforma </h3>
+<h1 align="center">Hi 👋, I'm Álvaro Navarro Pegalajar</h1>
+<h3 align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma</h3>
 
 ### 👤 Sobre mí
 
