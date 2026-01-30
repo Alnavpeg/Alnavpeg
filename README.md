@@ -1,11 +1,11 @@
 # ¡Hola! Soy Álvaro Navarro Pegalajar 👋
 
-## 🚀 Sobre mí
+### 👤 Sobre mí
 
--📍 Soy de **Linares (Jaén)**.
--🎓 Estudiante en el **IES Oretania**.
--📚 Dedico parte de mi tiempo libre a investigar nuevas herramientas y mejorar mis habilidades.
--🎬 En mi tiempo libre, estoy viendo cine y series.
+- 📍 Soy de **Linares (Jaén)**.
+- 🎓 Estudiante en el **IES Oretania**.
+- 📚 Dedico parte de mi tiempo libre a investigar nuevas herramientas y mejorar mis habilidades.
+- 🎬 En mi tiempo libre, disfruto viendo cine y series.
 
 ---
 
