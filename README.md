@@ -26,11 +26,13 @@ Estas son las tecnologías con las que estoy trabajando:
 
 ### 📊 Mis Estadísticas en GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alnavpeg&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alnavpeg&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alnavpeg&show_icons=true&theme=dracula&hide_border=true" alt="Estadísticas de Alnavpeg" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alnavpeg&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes de Alnavpeg" />
+</p>
 ---
 
 ### 📫 Contacto
