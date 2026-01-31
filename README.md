@@ -2,6 +2,5 @@
 <h3> Desarrollador de Aplicaciones Multiplataforma</h3>
 
 - 📍 Soy de **Linares (Jaén)**.
-- 🎓 Estudiante en el **IES Oretania**.
-- 📚 Dedico parte de mi tiempo libre a investigar nuevas herramientas y mejorar mis habilidades.
+- 🎓 Estudio en el **IES Oretania**.
 
